@@ -1,0 +1,13 @@
+name: AdminChat
+author: Idogftw
+version: 1.0
+main: com.idogftw.ac.AdminChat
+description: Kane Chat handles extra chat commands
+api-version: 1.13
+permissions:
+  kc.ac.use:
+    description: Admin can chat
+    default: op
+  kc.ac.see:
+    description: Admin can see
+    default: op
